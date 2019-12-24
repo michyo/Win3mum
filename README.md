@@ -34,8 +34,8 @@ CPUエミュレーションを内包し、16ビットのWindows実行ファイ�
 Original links
 ==============
 
-[Topten Software Win3mu](https://www.toptensoftware.com/win3mu/)
-[Technical details](https://hackernoon.com/win3mu-part-1-why-im-writing-a-16-bit-windows-emulator-2eae946c935d)
-[Sharp86](https://bitbucket.org/toptensoftware/sharp86)
-[PetaJson](https://github.com/toptensoftware/JsonKit/tree/classic)
-[ConFrames](https://bitbucket.org/toptensoftware/conframes)
+[Topten Software Win3mu](https://www.toptensoftware.com/win3mu/)  
+[Technical details](https://hackernoon.com/win3mu-part-1-why-im-writing-a-16-bit-windows-emulator-2eae946c935d)  
+[Sharp86](https://bitbucket.org/toptensoftware/sharp86)  
+[PetaJson](https://github.com/toptensoftware/JsonKit/tree/classic)  
+[ConFrames](https://bitbucket.org/toptensoftware/conframes)  
