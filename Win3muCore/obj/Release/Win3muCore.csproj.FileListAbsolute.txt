@@ -1,0 +1,15 @@
+C:\myprog\win3mu-master\build\Release\config.json
+C:\myprog\win3mu-master\build\Release\Win3muCore.dll
+C:\myprog\win3mu-master\build\Release\Win3muCore.pdb
+C:\myprog\win3mu-master\Win3muCore\obj\Release\Win3muCore.csprojAssemblyReference.cache
+C:\myprog\win3mu-master\Win3muCore\obj\Release\Win3muCore.csproj.CoreCompileInputs.cache
+C:\myprog\win3mu-master\Win3muCore\obj\Release\Win3muCore.csproj.CopyComplete
+C:\myprog\win3mu-master\Win3muCore\obj\Release\Win3muCore.dll
+C:\myprog\win3mu-master\Win3muCore\obj\Release\Win3muCore.pdb
+C:\myprog\win3mum\build\Release\config.json
+C:\myprog\win3mum\build\Release\Win3muCore.dll
+C:\myprog\win3mum\build\Release\Win3muCore.pdb
+C:\myprog\win3mum\Win3muCore\obj\Release\Win3muCore.csprojAssemblyReference.cache
+C:\myprog\win3mum\Win3muCore\obj\Release\Win3muCore.csproj.CopyComplete
+C:\myprog\win3mum\Win3muCore\obj\Release\Win3muCore.dll
+C:\myprog\win3mum\Win3muCore\obj\Release\Win3muCore.pdb

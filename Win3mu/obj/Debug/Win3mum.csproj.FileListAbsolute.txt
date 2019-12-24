@@ -1,0 +1,8 @@
+C:\myprog\win3mum\build\Debug\config.json
+C:\myprog\win3mum\build\Debug\Win3mum.exe.config
+C:\myprog\win3mum\build\Debug\Win3mum.exe
+C:\myprog\win3mum\build\Debug\Win3mum.pdb
+C:\myprog\win3mum\Win3mu\obj\Debug\Win3mum.csprojAssemblyReference.cache
+C:\myprog\win3mum\Win3mu\obj\Debug\Win3mum.csproj.CopyComplete
+C:\myprog\win3mum\Win3mu\obj\Debug\Win3mum.exe
+C:\myprog\win3mum\Win3mu\obj\Debug\Win3mum.pdb

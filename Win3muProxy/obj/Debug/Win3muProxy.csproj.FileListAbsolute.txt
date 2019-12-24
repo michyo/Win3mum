@@ -1,0 +1,13 @@
+C:\myprog\win3mu-master\build\Debug\Win3muProxy.exe.config
+C:\myprog\win3mu-master\build\Debug\Win3muProxy.exe
+C:\myprog\win3mu-master\build\Debug\Win3muProxy.pdb
+C:\myprog\win3mu-master\Win3muProxy\obj\Debug\Win3muProxy.csprojAssemblyReference.cache
+C:\myprog\win3mu-master\Win3muProxy\obj\Debug\Win3muProxy.csproj.CoreCompileInputs.cache
+C:\myprog\win3mu-master\Win3muProxy\obj\Debug\Win3muProxy.exe
+C:\myprog\win3mu-master\Win3muProxy\obj\Debug\Win3muProxy.pdb
+C:\myprog\win3mum\build\Debug\Win3muProxy.exe.config
+C:\myprog\win3mum\build\Debug\Win3muProxy.exe
+C:\myprog\win3mum\build\Debug\Win3muProxy.pdb
+C:\myprog\win3mum\Win3muProxy\obj\Debug\Win3muProxy.csprojAssemblyReference.cache
+C:\myprog\win3mum\Win3muProxy\obj\Debug\Win3muProxy.exe
+C:\myprog\win3mum\Win3muProxy\obj\Debug\Win3muProxy.pdb

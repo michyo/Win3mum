@@ -1,0 +1,13 @@
+C:\myprog\win3mu-master\Sharp86\build\Debug\Sharp86TextGuiDebugger.dll
+C:\myprog\win3mu-master\Sharp86\build\Debug\Sharp86TextGuiDebugger.pdb
+C:\myprog\win3mu-master\Sharp86\Sharp86TextGuiDebugger\obj\Debug\Sharp86TextGuiDebugger.csprojAssemblyReference.cache
+C:\myprog\win3mu-master\Sharp86\Sharp86TextGuiDebugger\obj\Debug\Sharp86TextGuiDebugger.csproj.CoreCompileInputs.cache
+C:\myprog\win3mu-master\Sharp86\Sharp86TextGuiDebugger\obj\Debug\Sharp86TextGuiDebugger.csproj.CopyComplete
+C:\myprog\win3mu-master\Sharp86\Sharp86TextGuiDebugger\obj\Debug\Sharp86TextGuiDebugger.dll
+C:\myprog\win3mu-master\Sharp86\Sharp86TextGuiDebugger\obj\Debug\Sharp86TextGuiDebugger.pdb
+C:\myprog\win3mum\Sharp86\build\Debug\Sharp86TextGuiDebugger.dll
+C:\myprog\win3mum\Sharp86\build\Debug\Sharp86TextGuiDebugger.pdb
+C:\myprog\win3mum\Sharp86\Sharp86TextGuiDebugger\obj\Debug\Sharp86TextGuiDebugger.csprojAssemblyReference.cache
+C:\myprog\win3mum\Sharp86\Sharp86TextGuiDebugger\obj\Debug\Sharp86TextGuiDebugger.csproj.CopyComplete
+C:\myprog\win3mum\Sharp86\Sharp86TextGuiDebugger\obj\Debug\Sharp86TextGuiDebugger.dll
+C:\myprog\win3mum\Sharp86\Sharp86TextGuiDebugger\obj\Debug\Sharp86TextGuiDebugger.pdb

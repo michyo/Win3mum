@@ -1,0 +1,11 @@
+C:\myprog\win3mu-master\Sharp86\ConFrames\build\Debug\ConFrames.dll
+C:\myprog\win3mu-master\Sharp86\ConFrames\build\Debug\ConFrames.pdb
+C:\myprog\win3mu-master\Sharp86\ConFrames\ConFrames\obj\Debug\ConFrames.csprojAssemblyReference.cache
+C:\myprog\win3mu-master\Sharp86\ConFrames\ConFrames\obj\Debug\ConFrames.csproj.CoreCompileInputs.cache
+C:\myprog\win3mu-master\Sharp86\ConFrames\ConFrames\obj\Debug\ConFrames.dll
+C:\myprog\win3mu-master\Sharp86\ConFrames\ConFrames\obj\Debug\ConFrames.pdb
+C:\myprog\win3mum\Sharp86\ConFrames\build\Debug\ConFrames.dll
+C:\myprog\win3mum\Sharp86\ConFrames\build\Debug\ConFrames.pdb
+C:\myprog\win3mum\Sharp86\ConFrames\ConFrames\obj\Debug\ConFrames.csprojAssemblyReference.cache
+C:\myprog\win3mum\Sharp86\ConFrames\ConFrames\obj\Debug\ConFrames.dll
+C:\myprog\win3mum\Sharp86\ConFrames\ConFrames\obj\Debug\ConFrames.pdb

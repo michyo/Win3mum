@@ -1,0 +1,11 @@
+C:\myprog\win3mu-master\Sharp86\PetaJson\bin\Debug\PetaJson.dll
+C:\myprog\win3mu-master\Sharp86\PetaJson\bin\Debug\PetaJson.pdb
+C:\myprog\win3mu-master\Sharp86\PetaJson\obj\Debug\PetaJson.csprojAssemblyReference.cache
+C:\myprog\win3mu-master\Sharp86\PetaJson\obj\Debug\PetaJson.csproj.CoreCompileInputs.cache
+C:\myprog\win3mu-master\Sharp86\PetaJson\obj\Debug\PetaJson.dll
+C:\myprog\win3mu-master\Sharp86\PetaJson\obj\Debug\PetaJson.pdb
+C:\myprog\win3mum\Sharp86\PetaJson\bin\Debug\PetaJson.dll
+C:\myprog\win3mum\Sharp86\PetaJson\bin\Debug\PetaJson.pdb
+C:\myprog\win3mum\Sharp86\PetaJson\obj\Debug\PetaJson.csprojAssemblyReference.cache
+C:\myprog\win3mum\Sharp86\PetaJson\obj\Debug\PetaJson.dll
+C:\myprog\win3mum\Sharp86\PetaJson\obj\Debug\PetaJson.pdb

@@ -1,0 +1,17 @@
+C:\myprog\win3mu-master\build\Debug\config.json
+C:\myprog\win3mu-master\build\Debug\Win3muTool.exe.config
+C:\myprog\win3mu-master\build\Debug\Win3muTool.exe
+C:\myprog\win3mu-master\build\Debug\Win3muTool.pdb
+C:\myprog\win3mu-master\Win3muTool\obj\Debug\Win3muTool.csprojAssemblyReference.cache
+C:\myprog\win3mu-master\Win3muTool\obj\Debug\Win3muTool.csproj.CoreCompileInputs.cache
+C:\myprog\win3mu-master\Win3muTool\obj\Debug\Win3muTool.csproj.CopyComplete
+C:\myprog\win3mu-master\Win3muTool\obj\Debug\Win3muTool.exe
+C:\myprog\win3mu-master\Win3muTool\obj\Debug\Win3muTool.pdb
+C:\myprog\win3mum\build\Debug\config.json
+C:\myprog\win3mum\build\Debug\Win3muTool.exe.config
+C:\myprog\win3mum\build\Debug\Win3muTool.exe
+C:\myprog\win3mum\build\Debug\Win3muTool.pdb
+C:\myprog\win3mum\Win3muTool\obj\Debug\Win3muTool.csprojAssemblyReference.cache
+C:\myprog\win3mum\Win3muTool\obj\Debug\Win3muTool.csproj.CopyComplete
+C:\myprog\win3mum\Win3muTool\obj\Debug\Win3muTool.exe
+C:\myprog\win3mum\Win3muTool\obj\Debug\Win3muTool.pdb

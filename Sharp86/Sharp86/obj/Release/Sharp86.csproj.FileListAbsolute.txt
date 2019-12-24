@@ -1,0 +1,10 @@
+C:\myprog\win3mu-master\Sharp86\build\Release\Sharp86.dll
+C:\myprog\win3mu-master\Sharp86\build\Release\Sharp86.pdb
+C:\myprog\win3mu-master\Sharp86\Sharp86\obj\Release\Sharp86.csproj.CoreCompileInputs.cache
+C:\myprog\win3mu-master\Sharp86\Sharp86\obj\Release\Sharp86.dll
+C:\myprog\win3mu-master\Sharp86\Sharp86\obj\Release\Sharp86.pdb
+C:\myprog\win3mu-master\Sharp86\Sharp86\obj\Release\Sharp86.csprojAssemblyReference.cache
+C:\myprog\win3mum\Sharp86\build\Release\Sharp86.dll
+C:\myprog\win3mum\Sharp86\build\Release\Sharp86.pdb
+C:\myprog\win3mum\Sharp86\Sharp86\obj\Release\Sharp86.dll
+C:\myprog\win3mum\Sharp86\Sharp86\obj\Release\Sharp86.pdb

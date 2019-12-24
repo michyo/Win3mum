@@ -1,0 +1,7 @@
+C:\myprog\win3mum\build\Release\config.json
+C:\myprog\win3mum\build\Release\Win3mumTool.exe.config
+C:\myprog\win3mum\build\Release\Win3mumTool.exe
+C:\myprog\win3mum\build\Release\Win3mumTool.pdb
+C:\myprog\win3mum\Win3muTool\obj\Release\Win3mumTool.csproj.CopyComplete
+C:\myprog\win3mum\Win3muTool\obj\Release\Win3mumTool.exe
+C:\myprog\win3mum\Win3muTool\obj\Release\Win3mumTool.pdb

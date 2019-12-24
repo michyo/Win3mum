@@ -1,0 +1,5 @@
+C:\myprog\win3mum\build\Debug\Win3mumProxy.exe.config
+C:\myprog\win3mum\build\Debug\Win3mumProxy.exe
+C:\myprog\win3mum\build\Debug\Win3mumProxy.pdb
+C:\myprog\win3mum\Win3muProxy\obj\Debug\Win3mumProxy.exe
+C:\myprog\win3mum\Win3muProxy\obj\Debug\Win3mumProxy.pdb
